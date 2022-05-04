@@ -22,6 +22,7 @@ Changed
   building ``resolwebio/common`` Docker image
 - Add ``openpyxl`` Python package in ``resolwebio/common:3.1.0``
   Docker image
+- Deprecate ``resolwebio/orange`` Docker image
 
 Fixed
 -----
