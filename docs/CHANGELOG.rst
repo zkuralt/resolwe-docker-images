@@ -15,6 +15,7 @@ Added
 
 Changed
 -------
+- Remove ``resolwebio/slamdunk`` Docker image
 
 Fixed
 -----
