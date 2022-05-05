@@ -12,6 +12,8 @@ Unreleased
 
 Added
 -----
+- Add assets from Google Drive that are used in ``resolwebio/common``
+  Docker image
 
 Changed
 -------
