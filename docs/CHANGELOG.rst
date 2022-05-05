@@ -20,6 +20,8 @@ Changed
 - Remove ``resolwebio/slamdunk`` Docker image
 - Use files from ``downloaded_assets`` instead of Google Drive for
   building ``resolwebio/common`` Docker image
+- Add ``openpyxl`` Python package in ``resolwebio/common:3.1.0``
+  Docker image
 
 Fixed
 -----
