@@ -33,7 +33,7 @@ download_and_verify \
     bedToBigBed \
     kent-v365 \
     a66027e1a51f803fef6bf234b90d0e4d6deee6027acfe2c0a65712f3157cca5d \
-    https://drive.google.com/uc?id=1N2pUaJuHgCUS4gztTcoybrRWw1m8WNtv#.elf
+    https://raw.githubusercontent.com/genialis/resolwe-docker-images/ea325619cdcdcc519c284eb804aea7cc73b0b0d1/resolwe_docker_images/common/downloaded_assets/bedToBigBed.elf
 
 wget https://raw.githubusercontent.com/ENCODE-DCC/kentUtils/master/src/hg/lib/encode/narrowPeak.as
 

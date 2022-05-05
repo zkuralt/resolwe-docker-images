@@ -18,6 +18,8 @@ Added
 Changed
 -------
 - Remove ``resolwebio/slamdunk`` Docker image
+- Use files from ``downloaded_assets`` instead of Google Drive for
+  building ``resolwebio/common`` Docker image
 
 Fixed
 -----

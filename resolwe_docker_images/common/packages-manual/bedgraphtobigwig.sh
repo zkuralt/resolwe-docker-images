@@ -33,7 +33,7 @@ download_and_verify \
     bedGraphToBigWig \
     kent-v365 \
     6dc7daaf18bd7b14933eb32cbbee559f5cd69d636578caf2b29e13996f9445c1 \
-    https://drive.google.com/uc?id=1GjBuK1JxSHrxWZhHnrTZmMsxwX6xGUWs#.elf
+    https://raw.githubusercontent.com/genialis/resolwe-docker-images/ea325619cdcdcc519c284eb804aea7cc73b0b0d1/resolwe_docker_images/common/downloaded_assets/bedGraphToBigWig.elf
 
 add_binary_path \
     kent \
