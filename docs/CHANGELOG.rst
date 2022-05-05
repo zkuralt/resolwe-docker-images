@@ -15,6 +15,9 @@ Added
 - Add assets from Google Drive that are used in ``resolwebio/common``
   Docker image
 - Add python2 pip to ``resolwebio/common:3.2.0`` image
+- Add assets from Google Drive that are used in ``resolwebio/chipseq``,
+  ``resolwebio/dnaseq``, ``resolwebio/rnaseq``, ``resolwebio/wgbs``
+  Docker images
 
 Changed
 -------
