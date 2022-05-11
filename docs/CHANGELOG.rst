@@ -32,6 +32,9 @@ Changed
   Docker image
 - Use ``downloaded_assets`` instead of Google Drive in
   ``resolwebio/dnaseq:6.4.0`` Docker image
+- Use ``downloaded_assets`` instead of Google Drive and use
+  ``resolwebio/common:3.2.0`` as a base image for
+  ``resolwebio/wgbs:3.0.0`` Docker image
 
 Fixed
 -----

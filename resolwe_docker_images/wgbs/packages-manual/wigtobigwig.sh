@@ -32,7 +32,7 @@ download_and_verify \
     wigToBigWig \
     kent-v365 \
     278a7da9210b1b82c20dbce33c263094cd7f14b20fdc7f5dbe330bf709ddd04e \
-    https://drive.google.com/uc?id=19M6SZmS0xxaKe3srxt01d0FrdaIYWnHe#.elf
+    https://raw.githubusercontent.com/genialis/resolwe-docker-images/43374488699a9d9dd6f158152bf9499b141824fe/resolwe_docker_images/wgbs/downloaded_assets/wigToBigWig.elf \
 
 add_binary_path \
     kent \
