@@ -14,6 +14,7 @@ Added
 -----
 - Add assets from Google Drive that are used in ``resolwebio/common``
   Docker image
+- Add python2 pip to ``resolwebio/common:3.2.0`` image
 
 Changed
 -------
