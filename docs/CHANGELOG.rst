@@ -30,6 +30,8 @@ Changed
 - Use ``downloaded_assets`` instead of Google Drive and pin version of
   R packages ``locfit`` and ``dplyr`` in ``resolwebio/rnaseq:6.1.0``
   Docker image
+- Use ``downloaded_assets`` instead of Google Drive in
+  ``resolwebio/dnaseq:6.4.0`` Docker image
 
 Fixed
 -----
