@@ -27,6 +27,9 @@ Changed
 - Add ``openpyxl`` Python package in ``resolwebio/common:3.1.0``
   Docker image
 - Deprecate ``resolwebio/orange`` Docker image
+- Use ``downloaded_assets`` instead of Google Drive and pin version of
+  R packages ``locfit`` and ``dplyr`` in ``resolwebio/rnaseq:6.1.0``
+  Docker image
 
 Fixed
 -----
