@@ -1,0 +1,16 @@
+spp@1.16.0
+# Required by ChipQC
+locfit@1.5-9.4
+bioc::Rsamtools@2.6.0
+bioc::GenomicAlignments@1.26.0
+bioc::chipseq@1.40.0
+bioc::GenomicFeatures@1.42.3
+bioc::TxDb.Hsapiens.UCSC.hg18.knownGene@3.2.2
+bioc::TxDb.Hsapiens.UCSC.hg19.knownGene@3.2.2
+bioc::TxDb.Mmusculus.UCSC.mm10.knownGene@3.10.0
+bioc::TxDb.Mmusculus.UCSC.mm9.knownGene@3.2.2
+bioc::TxDb.Rnorvegicus.UCSC.rn4.ensGene@3.2.2
+bioc::TxDb.Celegans.UCSC.ce6.ensGene@3.2.2
+bioc::TxDb.Dmelanogaster.UCSC.dm3.ensGene@3.2.2
+bioc::DiffBind@3.0.15
+genialis/ChIPQC@4338a8792bb9a38f9eac6e96fb1e93b3adb4dbbb

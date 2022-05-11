@@ -1,9 +1,9 @@
 # Docker image for ChIP-Seq processes
 
-The image is based on the [`docker.io/resolwebio/common`](
-https://hub.docker.com/r/resolwebio/common/) image, derived from the
-`ubuntu-18.04` version of [`docker.io/resolwebio/base`](
-https://hub.docker.com/r/resolwebio/base/) image.
+The image is based on the [`public.ecr.aws/genialis/resolwebio/common`](
+https://gallery.ecr.aws/genialis/resolwebio/common) image, derived from
+the `ubuntu-20.04` version of [`public.ecr.aws/genialis/base`](
+https://gallery.ecr.aws/genialis/resolwebio/base) image.
 
 Included bioinformatics tools:
 -----------------------------
@@ -13,6 +13,6 @@ Included bioinformatics tools:
 * MACS (v1.4.3)
 * MACS2 (v2.1.1.20160309)
 * run_spp.R (v1.2) (as spp)
-* SPP (v1.14)
+* SPP (v1.16)
 * wigToBigWig (kent-v364)
 * ChIPQC (1.22.1)

@@ -33,7 +33,7 @@ download_and_verify \
     bedClip \
     kent-v373 \
     fa4b081042d7013e0e6f928dde02a6b2f5d4760410811257b8508bf329fc1e55 \
-    https://drive.google.com/uc?id=1_Bfhnvbs72W4UMeATPoCRFcunOIy0Ktb#.elf
+    https://raw.githubusercontent.com/genialis/resolwe-docker-images/43374488699a9d9dd6f158152bf9499b141824fe/resolwe_docker_images/chipseq/downloaded_assets/bedClip.elf
 
 add_binary_path \
     kent \

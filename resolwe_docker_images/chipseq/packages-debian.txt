@@ -1,5 +1,4 @@
 python-numpy
-python-pip
 
 # required for SPP
 gawk
@@ -7,3 +6,21 @@ gawk
 # Required for ChipQC
 libxml2-dev
 libssl-dev
+
+# Required for R. If you purge at least one, R will get
+# reinstalled and R version may no longer be what you hope it would be.
+build-essential
+python-dev
+libcurl4-openssl-dev
+liblapack-dev
+libopenblas-dev
+libpng-dev
+libjpeg-dev
+libtiff5-dev
+libfreetype6-dev
+gfortran
+librsvg2-dev
+libfontconfig1-dev
+libharfbuzz-dev
+libfribidi-dev
+libboost-all-dev

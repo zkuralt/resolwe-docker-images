@@ -35,6 +35,9 @@ Changed
 - Use ``downloaded_assets`` instead of Google Drive and use
   ``resolwebio/common:3.2.0`` as a base image for
   ``resolwebio/wgbs:3.0.0`` Docker image
+- Use ``downloaded_assets`` instead of Google Drive, use
+  ``resolwebio/common:3.2.0`` as a base image and pin R package versions
+  in ``resolwebio/chipseq:3.0.0`` Docker image
 
 Fixed
 -----
