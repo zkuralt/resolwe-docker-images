@@ -18,6 +18,7 @@ Added
 - Add assets from Google Drive that are used in ``resolwebio/chipseq``,
   ``resolwebio/dnaseq``, ``resolwebio/rnaseq``, ``resolwebio/wgbs``
   Docker images
+- Add ``resolwebio/xengsort:1.0.0`` Docker image
 
 Changed
 -------
