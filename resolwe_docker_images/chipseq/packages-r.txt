@@ -13,4 +13,4 @@ bioc::TxDb.Rnorvegicus.UCSC.rn4.ensGene@3.2.2
 bioc::TxDb.Celegans.UCSC.ce6.ensGene@3.2.2
 bioc::TxDb.Dmelanogaster.UCSC.dm3.ensGene@3.2.2
 bioc::DiffBind@3.0.15
-genialis/ChIPQC@4338a8792bb9a38f9eac6e96fb1e93b3adb4dbbb
+genialis/ChIPQC@b351c40cd0458d441c818e7a06c2abdb9bad241e

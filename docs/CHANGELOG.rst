@@ -39,6 +39,8 @@ Changed
 - Use ``downloaded_assets`` instead of Google Drive, use
   ``resolwebio/common:3.2.0`` as a base image and pin R package versions
   in ``resolwebio/chipseq:6.0.0`` Docker image
+- Update ``ChIPQC`` R package version in ``resolwebio/chipseq:6.1.0``
+  Docker image
 
 Fixed
 -----
