@@ -1,1 +1,3 @@
-arrow
+arrow@5.0.0
+randomForest@4.6-14
+bioc::sesame@1.8.12

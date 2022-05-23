@@ -41,6 +41,9 @@ Changed
   in ``resolwebio/chipseq:6.0.0`` Docker image
 - Update ``ChIPQC`` R package version in ``resolwebio/chipseq:6.1.0``
   Docker image
+- Use ``resolwebio/common:3.2.0`` as a base image, pin R packages and
+  ensure reproducibility by using Sesame cache files saved in assets for
+  ``resolwebio/methylation_arrays:1.1.0`` Docker image
 
 Fixed
 -----
