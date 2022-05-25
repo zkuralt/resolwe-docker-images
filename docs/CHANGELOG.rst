@@ -44,6 +44,7 @@ Changed
 - Use ``resolwebio/common:3.2.0`` as a base image, pin R packages and
   ensure reproducibility by using Sesame cache files saved in assets for
   ``resolwebio/methylation_arrays:1.1.0`` Docker image
+- Remove unused ``sra-toolkit`` folder
 
 Fixed
 -----
