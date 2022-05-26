@@ -1,7 +1,7 @@
 # Docker image for processes using LaTeX
 
-It is based on `ubuntu-16.04` version of [`docker.io/resolwebio/base`](
-https://hub.docker.com/r/resolwebio/base/) image.
+It is based on `ubuntu-20.04` version of [`resolwebio/base`](
+public.ecr.aws/genialis/resolwebio/base:ubuntu-20.04-03042021) image.
 
 Included packages:
 ------------------------------

@@ -45,6 +45,8 @@ Changed
   ensure reproducibility by using Sesame cache files saved in assets for
   ``resolwebio/methylation_arrays:1.1.0`` Docker image
 - Remove unused ``sra-toolkit`` folder
+- Use ``resolwebio/base:ubuntu-20.04-03042021`` as a base image for
+  ``resolwebio/latex:3.0.0`` Docker image
 
 Fixed
 -----
