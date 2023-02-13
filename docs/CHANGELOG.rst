@@ -47,7 +47,8 @@ Changed
 - Remove unused ``sra-toolkit`` folder
 - Use ``resolwebio/base:ubuntu-20.04-03042021`` as a base image for
   ``resolwebio/latex:3.0.0`` Docker image
-- Update STAR version to 2.7.10b in ``resolwebio/rnaseq:6.2.0`` Docker image
+- Update STAR version to 2.7.10b and update R packages in
+  ``resolwebio/rnaseq:6.2.0`` Docker image
 
 Fixed
 -----
