@@ -1,0 +1,8 @@
+# Top-level packages
+numpy==1.24.3 --hash=sha256:4749e053a29364d3452c034827102ee100986903263e89884922ef01a0a6fd2f
+pandas==2.0.1 --hash=sha256:e09a53a4fe8d6ae2149959a2d02e1ef2f4d2ceb285ac48f74b79798507e468b4
+bx-python==0.9.0 --hash=sha256:dfa0574124266dc97af64f52d23fe754927840eec89ce778d3d2cd3aef6dc2de
+
+# Required by Pandas
+python-dateutil==2.8.2 --hash=sha256:961d03dc3453ebbc59dbdea9e4e11c5651520a876d0f4db161e8674aae935da9
+tzdata==2023.3 --hash=sha256:7e65763eef3120314099b6939b5546db7adce1e7d6f2e179e3df563c70511eda
