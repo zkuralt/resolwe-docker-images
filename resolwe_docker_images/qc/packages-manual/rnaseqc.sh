@@ -1,5 +1,5 @@
 #!/bin/bash -e
-# 
+
 . /var/cache/build/packages-manual/common.sh
 
 version="2.4.2"

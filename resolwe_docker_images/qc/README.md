@@ -8,4 +8,5 @@ https://gallery.ecr.aws/genialis/resolwebio/base) image.
 Included bioinformatics tools:
 ------------------------------
 * RNA-SeQC (v2.4.2)
-* Salmon (1.2.1)
+* Salmon (v1.2.1)
+* collapse_annotation.py (GTEx pipeline, Broad Institute)
