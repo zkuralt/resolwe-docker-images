@@ -2,6 +2,7 @@ software-properties-common
 
 # Required for Samtools
 libxml2-dev
+libxslt-dev
 
 # Required for R devtools
 libssl-dev

@@ -1,10 +1,8 @@
 bcftools
 bedgraphtobigwig
 bedtobigbed
-bedtools
 chrom-mappings
 fastqc
-hisat2
 makedb-walt
 picard-tools
 qorts

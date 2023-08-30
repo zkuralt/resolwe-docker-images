@@ -1,28 +1,29 @@
+bedtools
 bowtie
 bowtie2
 bwa
+bzip2
 gawk
+hisat2
 pigz
-python3.8
+python2
+python3.10
 python3-numpy
 python3-six
 python3-sklearn
 python3-yaml
-r-base-core=4.0.4-*
-r-base-dev=4.0.4-*
+r-base-core=4.1.2-*
+r-base-dev=4.1.2-*
 seqtk
 tabix
 zip
-
-# required for bedtools (old CLI)
-python
 
 # Required by FastQC
 default-jre
 libfindbin-libs-perl
 
 # Required for deeptools
-libpython3.8-dev
+libpython3.10-dev
 
 # Required for MultiQC
 python3-setuptools
@@ -39,4 +40,3 @@ python3-wheel
 # Required for Samtools and R
 libbz2-dev
 liblzma-dev
-

@@ -1,6 +1,6 @@
-FROM public.ecr.aws/genialis/resolwebio/base:ubuntu-20.04-03042021
+FROM public.ecr.aws/genialis/resolwebio/base:ubuntu-22.04-31082023
 
-MAINTAINER Resolwe Bioinformatics authors https://github.com/genialis/resolwe-bio
+LABEL maintainer="Resolwe Bioinformatics authors https://github.com/genialis/resolwe-bio"
 
 # Force matplotlib backend to a headless one.
 ENV MPLBACKEND Agg

@@ -42,6 +42,8 @@ intro_text: 'Aggregated (multi) sample QC report.'
 table_columns_visible:
     picard:
         PCT_RIBOSOMAL_BASES: False
+    RNA-SeQC:
+        rRNA rate: False
 
 # Set the order of modules in QC report
 module_order:
@@ -86,6 +88,7 @@ module_order:
           - '*.globin.Log.final.out'
     - samtools
     - qorts
+    - rna_seqc
     - featureCounts
     - salmon
     - picard
