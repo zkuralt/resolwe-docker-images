@@ -21,6 +21,7 @@ Added
 - Add ``resolwebio/xengsort:1.0.0`` Docker image
 - Create new Docker image ``resolwebio/qc:1.0.0`` and add RNA-SeQC tool (version 2.4.2)
 - Add ``collapse_annotation.py`` script to ``resolwebio/qc:1.1.0`` image
+- Add Ubuntu 22.04-based ``resolwebio/base`` Docker image
 
 Changed
 -------
