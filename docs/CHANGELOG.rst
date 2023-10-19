@@ -23,6 +23,8 @@ Added
 - Add ``collapse_annotation.py`` script to ``resolwebio/qc:1.1.0`` image
 - Add Ubuntu 22.04-based ``resolwebio/base`` Docker image
 - Add Ubuntu 22.04-based ``resolwebio/common:4.0.0`` Docker image
+- Update ``pyparsing`` Python package and add Docker image version tag 
+  to the ``resolwebio/common:4.0.1`` Docker image
 
 Changed
 -------
