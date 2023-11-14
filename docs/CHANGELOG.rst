@@ -18,6 +18,9 @@ This project adheres to `Semantic Versioning <http://semver.org/>`_.
 - Include label with a version tag in 
   ``public.ecr.aws/genialis/resolwebio/base:ubuntu-22.04-14112023`` 
   Docker image DockerFile.
+ - Use ``public.ecr.aws/genialis/resolwebio/base:ubuntu-22.04-14112023``
+  as a base image in ``resolwebio/common:4.1.0``. Return erroneously removed 
+  ``openpyxl`` Python package to this image version.
 
 
 ================
