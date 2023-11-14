@@ -7,8 +7,22 @@ This project adheres to `Semantic Versioning <http://semver.org/>`_.
 
 
 ==========
-Unreleased
+2023-11-14
 ==========
+
+- Use ``public.ecr.aws/genialis/resolwe/base:ubuntu-22.04-24102023``
+  as a base image for building 
+  ``public.ecr.aws/genialis/resolwebio/base:ubuntu-22.04-14112023``.
+  The new resolwe/base image includes the newer version of 
+  ``resolwe-runtime-utils==3.2.0``.
+- Include label with a version tag in 
+  ``public.ecr.aws/genialis/resolwebio/base:ubuntu-22.04-14112023`` 
+  Docker image DockerFile.
+
+
+================
+Previous changes
+================
 
 Added
 -----
@@ -55,6 +69,3 @@ Changed
   ``resolwebio/latex:3.0.0`` Docker image
 - Update STAR version to 2.7.10b and update R packages in
   ``resolwebio/rnaseq:6.2.0`` Docker image
-
-Fixed
------
