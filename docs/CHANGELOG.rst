@@ -7,6 +7,14 @@ This project adheres to `Semantic Versioning <http://semver.org/>`_.
 
 
 ==========
+2023-11-16
+==========
+
+- Bump Python package to ``lxml==4.9.3`` in 
+  ``resolwebio/common:4.1.1`` image 
+
+
+==========
 2023-11-14
 ==========
 

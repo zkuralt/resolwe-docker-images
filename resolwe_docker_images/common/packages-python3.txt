@@ -1,6 +1,6 @@
 # Top-level packages.
 deepTools==3.5.0 --hash=sha256:1a14a29e60be13eac11bd204dab9aef73cd72fe56a94c587333f21087584c0d8
-lxml==4.6.2 --hash=sha256:cd11c7e8d21af997ee8079037fff88f16fda188a9776eb4b81c7e4c9c0a7d7fc
+lxml==4.9.3 --hash=sha256:cd47b4a0d41d2afa3e58e5bf1f62069255aa2fd6ff5ee41604418ca925911d76
 multiqc==1.15 --hash=sha256:2f20ed1dd15e9b7c94621f26f93192d0dd5eaae85ffe2d2be423f2f6fbb8c99b
 pandas==2.0.3 --hash=sha256:ba619e410a21d8c387a1ea6e8a0e49bb42216474436245718d7f2e88a2f8d7c0
 scipy==1.11.2 --hash=sha256:d690e1ca993c8f7ede6d22e5637541217fc6a4d3f78b3672a6fe454dbb7eb9a7
