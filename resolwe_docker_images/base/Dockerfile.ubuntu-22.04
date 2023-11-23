@@ -1,4 +1,6 @@
-FROM public.ecr.aws/genialis/resolwe/base:ubuntu-22.04-24102023
+ARG BASE_IMAGE=public.ecr.aws/genialis/resolwe/base:latest
+
+FROM ${BASE_IMAGE}
 
 LABEL maintainer="Resolwe Bioinformatics authors https://github.com/genialis/resolwe-bio"
 
