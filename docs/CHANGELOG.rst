@@ -7,6 +7,15 @@ This project adheres to `Semantic Versioning <http://semver.org/>`_.
 
 
 ==========
+2024-04-04
+==========
+
+Changed
+-------
+- Remove Docker image for 10x scRNA-seq
+
+
+==========
 2023-11-16
 ==========
 
