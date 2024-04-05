@@ -7,6 +7,16 @@ This project adheres to `Semantic Versioning <http://semver.org/>`_.
 
 
 ==========
+2024-04-08
+==========
+
+Changed
+-------
+- Add support for Ensembl 109 genome annotation to the
+  ``resolwebio/snpeff:3.0.0`` Docker image
+
+
+==========
 2024-04-04
 ==========
 
