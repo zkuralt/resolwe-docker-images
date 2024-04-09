@@ -24,8 +24,14 @@ env:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: arc-runner
     steps:
+      - name: Reset Docker credentials store
+        run: |
+          # Docker is configured to use the ecr credentials helper,
+          # which clashes with the aws-actions/configure-aws-credentials action.
+          rm -f ~/.docker/config.json
+
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
