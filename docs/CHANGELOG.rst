@@ -7,6 +7,16 @@ This project adheres to `Semantic Versioning <http://semver.org/>`_.
 
 
 ==========
+2024-05-03
+==========
+
+Changed
+-------
+- Upgrade xengsort to version 2.0.5 in 
+  ``public.ecr.aws/genialis/resolwebio/xengsort:2.0.0`` Docker image
+
+
+==========
 2024-04-08
 ==========
 
