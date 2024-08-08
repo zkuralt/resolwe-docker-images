@@ -7,6 +7,15 @@ This project adheres to `Semantic Versioning <http://semver.org/>`_.
 
 
 ==========
+2024-08-08
+==========
+
+Changed
+-------
+- Upgrade `r-base` to version 4.4.1 in ``resolwebio/common:4.2.0`` Docker image 
+
+
+==========
 2024-05-03
 ==========
 

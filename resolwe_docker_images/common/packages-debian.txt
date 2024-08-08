@@ -12,8 +12,8 @@ python3-numpy
 python3-six
 python3-sklearn
 python3-yaml
-r-base-core=4.1.2-*
-r-base-dev=4.1.2-*
+r-base-core=4.4.1-*
+r-base-dev=4.4.1-*
 seqtk
 tabix
 zip

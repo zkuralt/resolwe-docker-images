@@ -1,6 +1,6 @@
 # Docker image for common bioinformatics utilities
 
-It is based on `ubuntu-20.04` version of [`public.ecr.aws/genialis/resolwebio/base`](
+It is based on `ubuntu-22.04` version of [`public.ecr.aws/genialis/resolwebio/base`](
 https://hub.docker.com/r/resolwebio/base/) image.
 
 Included tools:
