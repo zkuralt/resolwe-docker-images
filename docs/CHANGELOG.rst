@@ -5,6 +5,15 @@ Change Log
 All notable changes to this project are documented in this file.
 This project adheres to `Semantic Versioning <http://semver.org/>`_.
 
+==========
+2024-08-29
+==========
+
+Changed
+-------
+- Add GATK (v4.2.4.1) to
+  ``public.ecr.aws/genialis/resolwebio/snpeff:3.1.0`` Docker image
+
 
 ==========
 2024-08-08

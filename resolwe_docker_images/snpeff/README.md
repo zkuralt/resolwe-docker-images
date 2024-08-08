@@ -7,3 +7,4 @@ Included bioinformatics tools
 -----------------------------
 * SnpEff (5.1)
 * Tabix (1.13+ds)
+* GATK (4.2.4.1)
