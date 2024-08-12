@@ -1,7 +1,7 @@
+arriba
 bbmap
 cufflinks
 ercc
-genome-tools
 gotea
 igvtools
 jbrowse

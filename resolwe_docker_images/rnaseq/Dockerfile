@@ -1,6 +1,6 @@
-FROM public.ecr.aws/genialis/resolwebio/common:3.0.1
+FROM public.ecr.aws/genialis/resolwebio/common:4.2.0
 
-MAINTAINER Resolwe Bioinformatics authors https://github.com/genialis/resolwe-bio
+LABEL maintainer="Resolwe Bioinformatics authors https://github.com/genialis/resolwe-bio"
 
 # Additional files:
 COPY assets/ /opt/resolwebio/assets/

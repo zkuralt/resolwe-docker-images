@@ -16,6 +16,19 @@ Changed
 
 
 ==========
+2024-09-01
+==========
+
+Changed
+-------
+- Update and pin Python package versions in ``resolwebio/rnaseq:6.3.0`` Docker image
+- Update and pin R package versions in ``resolwebio/rnaseq:6.3.0`` Docker image
+- Update debian packages in ``resolwebio/rnaseq:6.3.0`` Docker image
+- Add arriba version 2.4.0 to ``resolwebio/rnaseq:6.3.0`` Docker image
+- Remove unused R packages from ``r-packages.sh`` script
+
+
+==========
 2024-08-08
 ==========
 

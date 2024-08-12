@@ -12,6 +12,4 @@ sed -e 's/^#.*$//g' -e '/^$/d' /var/cache/build/packages-r.txt | \
 # XXX: Use notary (https://github.com/ropenscilabs/notary) when ready.
 Rscript --slave --no-save --no-restore-history -e " \
   remotes::install_github('jkokosar/RNASeqT'); \
-  remotes::install_github('jvrakor/Subread_to_DEXSeq', subdir = 'loadSubread', upgrade = TRUE); \
-  renv::install('genialis/shRNAde'); \
 "
