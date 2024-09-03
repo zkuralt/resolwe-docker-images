@@ -16,6 +16,7 @@ on:
           - 'common'
           - 'snpeff'
           - 'xengsort'
+          - 'rnaseq'
         
 env:
   REGISTRY: ${{ vars.REGISTRY }}
